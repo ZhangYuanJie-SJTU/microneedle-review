@@ -1,0 +1,29 @@
+# LaTeX 编译产物
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+
+# 打包文件
+*.zip
+*_standalone.html
+
+# 其他
+.DS_Store
+Thumbs.db
+*.pdf
