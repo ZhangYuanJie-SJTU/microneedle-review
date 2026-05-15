@@ -4,6 +4,8 @@
 
 [![Journal](https://img.shields.io/badge/Journal-Biosensors%20%26%20Bioelectronics-blue)](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics)
 [![LaTeX](https://img.shields.io/badge/LaTeX-elsarticle-green)](https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions)
+[![Coverage](https://img.shields.io/badge/Coverage-91%20Papers-brightgreen)]()
+[![Affiliation](https://img.shields.io/badge/Affiliation-SJTU-blue)](https://www.sjtu.edu.cn)
 
 ---
 
